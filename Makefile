@@ -13,4 +13,4 @@ run:
 	@python3 ${YEAR}/day_${DAY}/solution.py input.txt
 
 test:
-	@python ${YEAR}/day_${DAY}/solution.py test_input.txt
+	@python3 ${YEAR}/day_${DAY}/solution.py test_input.txt
