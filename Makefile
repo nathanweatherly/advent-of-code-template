@@ -1,4 +1,4 @@
-YEAR ?= 2022
+YEAR ?= 2025
 
 deps:
 	pip3 install --upgrade autopep8
